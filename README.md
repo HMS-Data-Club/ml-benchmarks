@@ -61,3 +61,5 @@ It is called `biomed` in the data package.
 More information can be [found here](https://www.openml.org/search?type=data&status=active&id=481)
 
 ## Instructions
+
+The goal today is to find a model and parameters which perform the best on your chosen dataset. You can play with different models and options for each model. An overview of some of these models can be found [here](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html).
