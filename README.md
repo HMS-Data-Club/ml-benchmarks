@@ -63,3 +63,5 @@ More information can be [found here](https://www.openml.org/search?type=data&sta
 ## Instructions
 
 The goal today is to find a model and parameters which perform the best on your chosen dataset. You can play with different models and options for each model. An overview of some of these models can be found [here](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html).
+
+If you are having trouble getting your environment setup, you can use [this online notebook](https://colab.research.google.com/drive/1Ma5xMGXug9CzShzLDTCJnJRdh8vxifl6?usp=sharing).
